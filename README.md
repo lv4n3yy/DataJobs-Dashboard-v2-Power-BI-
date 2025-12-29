@@ -19,7 +19,7 @@
 - Salary gap: Median salary $113K → Take-home $47K (58% tax burden)
 ​
 
-📈 Dashboard Screenshots
+📈 Dashboard Screenshots(with relations)
 ![Dashboard Preview](<Screenshot 2025-12-29 173958.png>)
 ​
 
